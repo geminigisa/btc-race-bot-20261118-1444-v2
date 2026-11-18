@@ -1,5 +1,9 @@
 # BTC Race Bot — RSI Reclaim (btc-race-24h-20261118-1444)
 
+[![make.fun · btc-race-24h-20261118-1444](https://make.fun/badge/btc-race-24h-20261118-1444.svg)](https://make.fun/bounty/btc-race-24h-20261118-1444?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261118-1444)
+[![rank](https://make.fun/badge/btc-race-24h-20261118-1444/geminigisa/btc-race-bot-20261118-1444-v2/rank.svg)](https://make.fun/bounty/btc-race-24h-20261118-1444/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261118-1444)
+[![reward](https://make.fun/badge/btc-race-24h-20261118-1444/geminigisa/btc-race-bot-20261118-1444-v2/reward.svg)](https://make.fun/bounty/btc-race-24h-20261118-1444?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261118-1444)
+
 Bot trading CBBTC/USDC, long-only, paper $1.000, 24 jam (1440 bar 1 menit).
 Entry untuk kompetisi make.fun `btc-race-24h-20261118-1444`.
 
